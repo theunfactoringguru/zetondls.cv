@@ -1,0 +1,24 @@
+h1, h2, h3 {
+  font-weight: bold;
+}
+
+h1 {
+  margin: 10px 0;
+}
+a {
+  color: #1A117D;
+  text-decoration: underline;
+}
+
+a:visited {
+  color: #061752;
+}
+body {
+  margin-left: 5vw;
+  margin-right: 5vw;
+  background-color: #e5e5f7;
+  opacity: 0.8;
+  background-image:  radial-gradient(#444cf7 2px, transparent 2px), radial-gradient(#444cf7 2px, #e5e5f7 2px);
+  background-size: 80px 80px;
+  background-position: 0 0,40px 40px;
+}
